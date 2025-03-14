@@ -1,6 +1,9 @@
 # Snake-Game-Cpp-SFML
 A simple Snake game created in C++ using the SFML library.
 
+## Gameplay Link
+https://www.linkedin.com/posts/hassaan4133_cpp-sfml-gamedevelopment-activity-7285765806842384385-dMDR?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAACyns1MBR-ecKYIS35k7n1dJuxTqBK5R1H8&utm_campaign=copy_link
+
 ## Game Description
 
 This is a classic Snake Game where the player controls a snake moving around a grid-based game board. The goal is to eat fruits (apples) that randomly appear on the board, increasing the snake's length and the player's score. The game includes a main menu, an options menu, and various game states for enhanced player interaction.
